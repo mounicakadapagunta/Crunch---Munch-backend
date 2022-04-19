@@ -1,5 +1,5 @@
 import express from "express";
-import { auth } from "../middleware/auth.js";
+// import { auth } from "../middleware/auth.js";
 import { client } from "../index.js";
 import { Getuser } from "../helperfunctions.js";
 import { ObjectId } from "mongodb";
